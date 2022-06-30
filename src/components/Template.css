@@ -1,0 +1,70 @@
+.template_section{
+    background-color: #f4f4f9;
+    padding-bottom: 30px;
+    padding-top: 7px;
+    background-size: 50px 50px;
+}
+
+.template_top{
+    margin-left: 180px;
+    margin-right: 180px;
+    display: flex;
+    align-items: center;
+    justify-content:  space-between;
+}
+
+.card{
+margin-left: 10px;
+margin-top: 30px;
+background-color: #f4f4f9;
+display:flex;
+}
+
+.card_image1{
+    box-sizing: border-box;
+    height: 130px;
+    width: 150px;
+    cursor: pointer;
+    border-radius: 2px;
+    border: 0.2px solid #FFFDF7;
+}
+
+.card_image1:hover{
+    border: 1px solid #6e2594;
+    transition: 0.5;
+}
+
+.card_image2{
+    box-sizing: border-box;
+    height: 130px;
+    width: 150px;
+    cursor: pointer;
+    border-radius: 2px;
+    border: 0.2px solid #FFFDF7;
+    left: 20px;
+}
+
+.card_image2:hover{
+    border: 1px solid #6e2594;
+    transition: 0.5;
+}
+
+.card_Title{
+    font-size: 14px;
+    margin-top: 2px;
+    color: #202124;
+    font-weight: 500;
+}
+
+.one_image{
+    position: relative;
+    left: 165px;
+    margin-top: 31px;
+}
+
+.two_image
+{
+    position: relative;
+    left: 600px;
+    margin-top: -168px;
+}
